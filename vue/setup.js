@@ -1,7 +1,8 @@
 const app = Vue.createApp({
   data() {
     return {
-      helloWorld: "Welcome To Vue 3",
+      helloWorld: "Welcome To Vue",
+      vueVersion: 3,
     };
   },
 });
